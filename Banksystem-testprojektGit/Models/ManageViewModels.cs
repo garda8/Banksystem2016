@@ -14,6 +14,8 @@ namespace Banksystem_testprojektGit.Models
         public bool BrowserRemembered { get; set; }
     }
 
+    /*äNDRING*/
+    
     public class ManageLoginsViewModel
     {
         public IList<UserLoginInfo> CurrentLogins { get; set; }
