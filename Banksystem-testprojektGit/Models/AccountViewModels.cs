@@ -10,7 +10,9 @@ namespace Banksystem_testprojektGit.Models
         public string Email { get; set; }
     }
 
-    //En kommentar - jätte bra klass.. 
+    //En kommentar - jätte bra klass..
+ 
+    //Ytterligare en kommentar.
 
     public class ExternalLoginListViewModel
     {
